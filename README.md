@@ -1,2 +1,3 @@
 # IMDB_Data_Wrangling
-Python based data wrangling
+
+This is a the data wrangling process applied to a dirty IMDB dataset.
