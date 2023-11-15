@@ -1,0 +1,101 @@
+,title,year,genre,duration,country,rating,director,income,votes,score
+0,The Shawshank Redemption,1995-02-10,Drama,142.0,USA,R,Frank Darabont,28815245,,9.3
+1,The Godfather,,"Crime, Drama",175.0,USA,R,Francis Ford Coppola,246120974,,9.2
+2,The Dark Knight,,"Action, Crime, Drama",152.0,USA,PG-13,Christopher Nolan,1005455211,,9.0
+3,The Godfather: Part II,1975-09-25,"Crime, Drama",220.0,USA,R,Francis Ford Coppola,408035783,,9.0
+4,Pulp Fiction,1994-10-28,"Crime, Drama",154.0,USA,R,Quentin Tarantino,222831817,,8.9
+5,The Lord of the Rings: The Return of the King,,"Action, Adventure, Drama",201.0,New Zealand,PG-13,Peter Jackson,1142271098,,8.9
+6,Schindler's List,1994-03-11,"Biography, Drama, History",195.0,USA,R,Steven Spielberg,322287794,,8.9
+7,12 Angry Men,1957-09-04,"Crime, Drama",96.0,USA,Not Rated,Sidney Lumet,576,,8.9
+8,Inception,2010-09-24,"Action, Adventure, Sci-Fi",148.0,USA,PG-13,Christopher Nolan,869784991,,8.8
+9,Fight Club,,Drama,inf,UK,R,David Fincher,101218804,,8.8
+10,Forrest Gump,1994-10-06,"Drama, Romance",142.0,USA,PG-13,Robert Zemeckis,678229452,,8.8
+11,The Lord of the Rings: The Fellowship of the Ring,2002-01-18,"Action, Adventure, Drama",178.0,New Zealand,PG-13,Peter Jackson,887934303,,8.8
+12,"Il buono, il brutto, il cattivo",,Western,161.0,Italy,Approved,Sergio Leone,25252481,,8.8
+14,The Matrix,1999-05-07,"Action, Sci-Fi",136.0,USA,R,"Lana Wachowski, Lilly Wachowski",465718588,,8.7
+15,The Lord of the Rings: The Two Towers,,"Action, Adventure, Drama",179.0,New Zealand,PG-13,Peter Jackson,951227416,,8.8
+16,Star Wars: Episode V - The Empire Strikes Back,1980-09-19,"Action, Adventure, Fantasy",124.0,USA,PG,Irvin Kershner,549265501,,8.7
+17,Goodfellas,1990-09-20,"Biography, Crime, Drama",146.0,USA,R,Martin Scorsese,46879633,,8.7
+18,One Flew Over the Cuckoo's Nest,,Drama,133.0,USA,R,Milos Forman,108997629,,8.7
+19,Interstellar,2014-11-06,"Adventure, Drama, Sci-Fi",169.0,USA,PG-13,Christopher Nolan,696742056,,8.6
+20,Se7en,1995-12-15,"Crime, Drama, Mystery",127.0,USA,R,David Fincher,327333559,,8.6
+21,The Silence of the Lambs,1991-03-05,"Crime, Drama, Thriller",118.0,USA,R,Jonathan Demme,272753884,,8.6
+22,Star Wars,1977-10-20,"Action, Adventure, Fantasy",121.0,USA,PG,George Lucas,775768912,,8.6
+23,Saving Private Ryan,1998-10-30,"Drama, War",169.0,USA,R,Steven Spielberg,482349603,,8.6
+24,The Green Mile,2000-10-03,"Crime, Drama, Fantasy",189.0,USA,R,Frank Darabont,286801374,,8.6
+25,Cidade de Deus,2003-05-09,"Crime, Drama",130.0,Brazil,R,"Fernando Meirelles, KÃ¡tia Lund",30680793,,8.6
+26,Sen to Chihiro no kamikakushi,2003-04-18,"Animation, Adventure, Family",125.0,Japan,PG,Hayao Miyazaki,355467056,,8.6
+27,La vita è bella,1997-12-20,"Comedy, Drama, Romance",116.0,Italy,PG-13,Roberto Benigni,230098753,,8.6
+28,Gisaengchung,2019-11-07,"Comedy, Drama, Thriller",132.0,South Korea,R,Bong Joon Ho,257604912,,8.6
+29,It's a Wonderful Life,1948-03-11,"Drama, Family, Fantasy",130.0,USA,PG,Frank Capra,6130720,,8.6
+30,Shichinin no samurai,1955-08-19,"Action, Adventure, Drama",207.0,Japan,Unrated,Akira Kurosawa,322773,,8.6
+31,Gladiator,2000-05-19,"Action, Adventure, Drama",155.0,USA,R,Ridley Scott,465361176,,8.5
+32,The Departed,2006-10-27,"Crime, Drama, Thriller",151.0,USA,R,Martin Scorsese,291465034,,8.5
+33,The Prestige,2006-12-22,"Drama, Mystery, Sci-Fi",130.0,UK,PG-13,Christopher Nolan,109676311,,8.5
+34,Back to the Future,1985-10-18,"Adventure, Comedy, Sci-Fi",116.0,USA,PG,Robert Zemeckis,388774684,,8.5
+35,American History X,1999-08-27,Drama,119.0,USA,R,Tony Kaye,23875127,,8.5
+36,Léon: The Professional,1995-04-07,"Action, Crime, Drama",110.0,France,R,Luc Besson,19552639,,8.5
+37,Terminator 2: Judgment Day,1991-12-19,"Action, Sci-Fi",137.0,USA,R,James Cameron,520884847,,8.4
+38,The Usual Suspects,1995-11-30,"Crime, Mystery, Thriller",106.0,USA,R,Bryan Singer,23341568,,8.4
+39,The Lion King,1994-11-25,"Animation, Adventure, Drama",88.0,USA,G,"Roger Allers, Rob Minkoff",968511805,,8.4
+40,Joker,2019-10-03,"Crime, Drama, Thriller",122.0,USA,R,Todd Phillips,1074251311,,8.4
+41,Intouchables,2012-02-24,"Biography, Comedy, Drama",112.0,France,R,"Olivier Nakache, Ãric Toledano",426588510,,8.4
+42,The Pianist,2002-10-25,"Biography, Drama, Music",150.0,UK,R,Roman Polanski,120072577,,8.4
+43,Whiplash,2015-02-12,"Drama, Music",106.0,USA,R,Damien Chazelle,48983260,,8.4
+44,Psycho,1960-10-28,"Horror, Mystery, Thriller",109.0,USA,R,Alfred Hitchcock,32008644,,8.3
+45,Casablanca,,"Drama, Romance, War",102.0,USA,PG,Michael Curtiz,4374761,,8.3
+46,C'era una volta il West,1968-12-21,Western,165.0,Italy,PG-13,Sergio Leone,112911,,8.3
+47,Hotaru no haka,2015-10-11,"Animation, Drama, War",89.0,Japan,,Isao Takahata,516962,,8.3
+48,Nuovo Cinema Paradiso,1988-11-17,Drama,155.0,Italy,PG,Giuseppe Tornatore,13826605,,8.3
+49,Modern Times,1937-03-12,"Comedy, Drama, Family",87.0,USA,G,Charles Chaplin,457688,,8.3
+50,The Dark Knight Rises,2012-08-29,"Action, Adventure",164.0,UK,PG-13,Christopher Nolan,1081133191,,8.3
+51,Django Unchained,2013-01-17,"Drama, Western",165.0,USA,R,Quentin Tarantino,425368238,,8.3
+52,Memento,2001-01-19,"Mystery, Thriller",113.0,USA,R,Christopher Nolan,39970386,,8.2
+53,WALLÂ·E,2008-10-17,"Animation, Adventure, Family",98.0,USA,G,Andrew Stanton,521311860,,8.2
+54,The Shining,1980-12-22,"Drama, Horror",146.0,UK,R,Stanley Kubrick,46520613,,8.2
+55,Raiders of the Lost Ark,1981-06-12,"Action, Adventure",115.0,USA,PG,Steven Spielberg,390133212,,8.2
+56,Avengers: Infinity War,2018-04-25,"Action, Adventure, Sci-Fi",149.0,USA,PG-13,"Anthony Russo, Joe Russo",2048359754,,8.2
+57,Alien,1979-10-25,"Horror, Sci-Fi",117.0,UK,R,Ridley Scott,108110316,,8.2
+58,Avengers: Endgame,2019-04-24,"Action, Adventure, Drama",181.0,USA,PG-13,"Anthony Russo, Joe Russo",2797800564,,8.2
+59,Apocalypse Now,1979-12-18,"Drama, Mystery, War",147.0,USA,R,Francis Ford Coppola,91968688,,8.2
+60,Oldeuboi,2005-05-06,"Action, Drama, Mystery",120.0,South Korea,R,Chan-wook Park,15002116,,8.1
+61,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964-04-03,Comedy,95.0,UK,PG,Stanley Kubrick,9443876,,8.1
+62,Rear Window,1955-04-14,"Mystery, Thriller",112.0,USA,PG,Alfred Hitchcock,37032034,,8.1
+63,Coco,2017-12-28,"Animation, Adventure, Family",105.0,USA,PG,"Lee Unkrich, Adrian Molina",807083670,,8.1
+64,Das Leben der Anderen,2007-04-06,"Drama, Mystery, Thriller",137.0,Germany,R,Florian Henckel von Donnersmarck,77356942,,8.1
+65,Spider-Man: Into the Spider-Verse,2018-12-25,"Animation, Action, Adventure",117.0,USA,PG,"Bob Persichetti, Peter Ramsey",375540831,,8.1
+66,3 Idiots,2009-12-25,"Comedy, Drama",170.0,India,PG-13,Rajkumar Hirani,60262836,,8.1
+67,Mononoke-hime,2000-05-19,"Animation, Adventure, Fantasy",134.0,Japan,PG-13,Hayao Miyazaki,169785629,,8.0
+68,Once Upon a Time in America,1984-09-28,"Crime, Drama",229.0,USA,R,Sergio Leone,5472914,,8.0
+69,The Great Dictator,1945-06-25,"Comedy, Drama, War",125.0,USA,G,Charles Chaplin,969879,,8.0
+70,Sunset Blvd.,1950-08-10,"Drama, Film-Noir",110.0,USA,PG,Billy Wilder,299645,,8.0
+71,Inglourious Basterds,2009-10-02,"Adventure, Drama, War",153.0,Germany,R,Quentin Tarantino,321455689,,8.0
+72,American Beauty,2000-01-21,Drama,122.0,USA,R,Sam Mendes,356296601,,8.0
+73,Braveheart,1995-12-01,"Biography, Drama, History",178.0,USA,R,Mel Gibson,213216216,,7.9
+74,Star Wars: Episode VI - Return of the Jedi,1983-10-21,"Action, Adventure, Fantasy",131.0,USA,PG,Richard Marquand,475347111,,7.9
+75,Reservoir Dogs,1992-10-09,"Crime, Drama, Thriller",99.0,USA,R,Quentin Tarantino,2889963,,7.9
+76,Eternal Sunshine of the Spotless Mind,2004-10-22,"Drama, Romance, Sci-Fi",108.0,USA,R,Michel Gondry,74036715,,7.9
+77,Toy Story,1996-03-22,"Animation, Adventure, Comedy",81.0,USA,G,John Lasseter,404265438,,7.9
+78,Good Will Hunting,1998-03-06,"Drama, Romance",126.0,USA,R,Gus Van Sant,225933435,,7.8
+79,Snatch,2001-03-16,"Comedy, Crime",104.0,UK,R,Guy Ritchie,83557872,,7.8
+80,Requiem for a Dream,2000-12-15,Drama,102.0,USA,R,Darren Aronofsky,7390108,,7.8
+81,A Clockwork Orange,1972-09-07,"Crime, Drama, Sci-Fi",136.0,UK,18,Stanley Kubrick,26903440,,7.8
+82,Toy Story 3,2010-07-07,"Animation, Adventure, Comedy",103.0,USA,G,Lee Unkrich,1066969703,,7.8
+83,Scarface,1983-12-09,"Crime, Drama",170.0,USA,R,Brian De Palma,66023585,,7.8
+84,Taxi Driver,1976-02-08,"Crime, Drama",114.0,USA,R,Martin Scorsese,28441292,,7.7
+85,Le fabuleux destin d'AmÃ©lie Poulain,2002-01-25,"Comedy, Romance",122.0,France,R,Jean-Pierre Jeunet,173924742,,7.7
+86,Full Metal Jacket,1987-10-09,"Drama, War",116.0,UK,16+,Stanley Kubrick,46357676,,7.7
+87,Aliens,1986-09-24,"Action, Adventure, Sci-Fi",137.0,USA,R,James Cameron,131384634,,7.7
+88,2001: A Space Odyssey,1968-12-12,"Adventure, Sci-Fi",149.0,UK,G,Stanley Kubrick,68989547,,7.6
+89,Citizen Kane,1948-11-25,"Drama, Mystery",119.0,USA,PG,Orson Welles,1594107,,7.6
+90,1917,2020-01-23,"Drama, War",119.0,USA,R,Sam Mendes,384857224,,7.6
+91,Amadeus,1985-02-15,"Biography, Drama, History",160.0,USA,R,Milos Forman,52066791,,7.6
+92,Vertigo,1958-11-18,"Mystery, Romance, Thriller",128.0,USA,PG,Alfred Hitchcock,7796389,,7.5
+93,North by Northwest,1959-10-28,"Adventure, Mystery, Thriller",136.0,USA,PG,Alfred Hitchcock,73446,,7.5
+94,Jagten,2012-11-22,Drama,115.0,Denmark,R,Thomas Vinterberg,15843274,,7.5
+95,Lawrence of Arabia,1963-10-29,"Adventure, Biography, Drama",228.0,UK,PG,David Lean,45710874,,7.5
+96,The Sting,1974-03-21,"Comedy, Crime, Drama",129.0,USA,PG,George Roy Hill,156000000,,7.5
+97,Das Boot,1982-03-18,"Adventure, Drama, Thriller",149.0,Germany,R,Wolfgang Petersen,11487676,,7.5
+98,Per qualche dollaro in più,1965-12-20,Western,132.0,Italy,R,Sergio Leone,15000000,,7.4
+99,Jodaeiye Nader az Simin,2011-10-21,Drama,123.0,Iran,PG-13,Asghar Farhadi,22926076,,7.4
+100,Singin' in the Rain,1953-02-05,"Comedy, Musical, Romance",103.0,USA,G,Stanley Donen,1864182,,7.4
